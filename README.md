@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project for The Odin Project. I will be creating a basic website set-up including the boilerplate, and attaching links, images, and creating a flow between multiple pages using basic html.
